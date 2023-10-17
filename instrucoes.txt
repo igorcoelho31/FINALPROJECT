@@ -1,0 +1,10 @@
+Acesar o meet: https://meet.google.com/fbb-znsh-dfr
+
+
+Execute o passo a passo abaixo para obter o projeto inicial
+1 - Acessar o terminal do node
+2 - acessar  a pasta documentos: cd Documents 
+3 - executar: git clone https://github.com/ThyagoAssis/projetoionic
+4 - acessar a pasta do projeto: cd projetoionic
+5 - Executar o npm install
+6 - Subir o projeto: ionic serve
